@@ -1,0 +1,3 @@
+myenv/
+traffic2/coco_weights/
+mask_rcnn_marble_cfg_coco_0008.h5

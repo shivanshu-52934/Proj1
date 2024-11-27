@@ -1,0 +1,42 @@
+{
+  "info": {
+    "year": "2024",
+    "version": "1",
+    "description": "Exported from roboflow.com",
+    "contributor": "",
+    "url": "https://public.roboflow.com/object-detection/undefined",
+    "date_created": "2024-08-18T09:42:07+00:00"
+  },
+  "licenses": [
+    {
+      "id": 1,
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "name": "CC BY 4.0"
+    }
+  ],
+  "categories": [
+    { "id": 1, "name": "person_bike", "supercategory": "none" },
+    { "id": 2, "name": "person_bike", "supercategory": "person_bike" }
+  ],
+  "images": [
+    {
+      "id": 0,
+      "license": 1,
+      "file_name": "IMG_5902_jpg.rf.39e9cfef8fd87c1194abc2c586c66d53.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2024-08-18T09:42:07+00:00"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 1,
+      "bbox": [94, 67, 386.5, 526],
+      "area": 203299,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ]
+}
